@@ -1,3 +1,3 @@
 yarn install
-cd pod && pod install
+cd ios && pod install
 yarn ios
